@@ -1,0 +1,150 @@
+.skill_box {
+  margin-bottom: 20px;
+}
+.skill_box > p {
+  color: #999999;
+  margin-bottom: 15px;
+}
+.skill_grey_box {
+  background: #999;
+  border-radius: 6px;
+}
+.skill_color_box {
+  background: grey;
+  width: 88%;
+  border-radius: 6px;
+  height: 6px;
+  position: relative;
+  color: grey;
+}
+.skill_color_box > span {
+  position: absolute;
+  right: 0;
+  top: -22px;
+  color: inherit;
+}
+.skill_box {
+  margin-bottom: 20px;
+}
+.skill_box > p {
+  color: #999999;
+  margin-bottom: 15px;
+}
+.skill_grey_box {
+  background: #999;
+  border-radius: 6px;
+}
+.skill_color_box {
+  background: red;
+  width: 88%;
+  border-radius: 6px;
+  height: 6px;
+  position: relative;
+  color: red;
+}
+.skill_color_box > span {
+  position: absolute;
+  right: 0;
+  top: -22px;
+  color: inherit;
+}
+.skill_box {
+  margin-bottom: 20px;
+}
+.skill_box > p {
+  color: #999999;
+  margin-bottom: 15px;
+}
+.skill_grey_box {
+  background: #999;
+  border-radius: 6px;
+}
+.skill_color_box {
+  background: red;
+  width: 88%;
+  border-radius: 6px;
+  height: 6px;
+  position: relative;
+  color: red;
+}
+.skill_color_box > span {
+  position: absolute;
+  right: 0;
+  top: -22px;
+  color: inherit;
+}
+.skill_box {
+  margin-bottom: 20px;
+}
+.skill_box > p {
+  color: #999999;
+  margin-bottom: 15px;
+}
+.skill_grey_box {
+  background: #999;
+  border-radius: 6px;
+}
+.skill_color_box {
+  background: blue;
+  width: 88%;
+  border-radius: 6px;
+  height: 6px;
+  position: relative;
+  color: blue;
+}
+.skill_color_box > span {
+  position: absolute;
+  right: 0;
+  top: -22px;
+  color: inherit;
+}
+.skill_box {
+  margin-bottom: 20px;
+}
+.skill_box > p {
+  color: #999999;
+  margin-bottom: 15px;
+}
+.skill_grey_box {
+  background: #999;
+  border-radius: 6px;
+}
+.skill_color_box {
+  background: blue;
+  width: 88%;
+  border-radius: 6px;
+  height: 6px;
+  position: relative;
+  color: blue;
+}
+.skill_color_box > span {
+  position: absolute;
+  right: 0;
+  top: -22px;
+  color: inherit;
+}
+.skill_box {
+  margin-bottom: 20px;
+}
+.skill_box > p {
+  color: #999999;
+  margin-bottom: 15px;
+}
+.skill_grey_box {
+  background: #999;
+  border-radius: 6px;
+}
+.skill_color_box {
+  background: purple;
+  width: 8%;
+  border-radius: 6px;
+  height: 6px;
+  position: relative;
+  color: purple;
+}
+.skill_color_box > span {
+  position: absolute;
+  right: 0;
+  top: -22px;
+  color: inherit;
+}
